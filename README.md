@@ -6,7 +6,7 @@ This repository houses the dissertation titled "A Dynamic Model of U.S. Beef Cat
 
 Contents of the repository:
 
-1. National Model - This directory comprises several self-explanatory .R files used to fit the national model and project the market into the future.
+1. National Model - This directory comprises several self-explanatory .R files used to fit the national model and projections.
    
 2. Data - This directory contains the data utilized for fitting the national model. It is important to note that the directory includes various timestamps, and the timeline of the data is documented for transparency.
    
@@ -14,7 +14,7 @@ Contents of the repository:
 
 4. Regional Data: The data employed for the regional model is included in this directory.
    
-5. Foot and Mouth Disease Simulations: This directory encompasses the code used for conducting simulations for the third chapter of the dissertation.
+5. Foot and Mouth Disease Simulations: This directory encompasses the code used for conducting simulations for the third chapter of the dissertation titled "An Assessment of the Economic Impacts of a Foot-and-Mouth Disease Outbreak on the U.S. Beef Cattle Industry".
 
 Repository Information:
 
