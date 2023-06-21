@@ -10,7 +10,7 @@ Contents of the repository:
    
 2. Data - This directory contains the data utilized for fitting the national model. It is important to note that the directory includes various timestamps, and the timeline of the data is documented for transparency.
    
-3. Regional Model: Inside this directory, you will find the code necessary for fitting the regional model, specifically tailored for the TX-OK-AR region. The data employed for the regional model is included in the "Regional Data" subdirectory within the Regional Model directory.
+3. Regional Model: Inside this directory, you will find the code necessary for fitting the regional model, specifically tailored for the TX-OK-NM region. The data employed for the regional model is included in the "Regional Data" subdirectory within the Regional Model directory.
    
 4. Foot and Mouth Disease Simulations: This directory encompasses the code used for conducting simulations for the third chapter of the dissertation.
 
