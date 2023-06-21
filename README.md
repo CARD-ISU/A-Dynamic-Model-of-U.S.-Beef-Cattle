@@ -1,4 +1,5 @@
 AUTHOR: Dinesh Reddy Poddaturi
+
 CONTACT: dineshreddypoddaturi@gmail.com
 
 This repository houses the dissertation titled "A Dynamic Model of U.S. Beef Cattle" by Dinesh Poddaturi. The repo contains the software code written for the dissertation and the final document. The code is written in R programming language and the dissertation is added as a project within the repo.
