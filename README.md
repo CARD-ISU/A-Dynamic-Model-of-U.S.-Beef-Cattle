@@ -2,11 +2,11 @@ AUTHOR: Dinesh Reddy Poddaturi
 
 CONTACT: dineshreddypoddaturi@gmail.com
 
-This repository houses the dissertation titled "A Dynamic Model of U.S. Beef Cattle" by Dinesh Poddaturi. The repo contains the software code written for the dissertation and the final document. The code is written in R programming language and the dissertation is added as a project within the repo.
+This repository houses the dissertation titled "A Dynamic Model of U.S. Beef Cattle" by Dinesh Poddaturi. The principal Investigators for this dissertation and the co-major professors of Dinesh are Lee L. Schulz and Chad E. Hart of Iowa State University. The repo contains the software code written for the dissertation and the final document. The code is written in R programming language and the dissertation is added as a project within the repo.
 
 Contents of the repository:
 
-1. National Model - This directory comprises several self-explanatory .R files used to fit the national model and projections.
+1. National Model - This directory comprises several self-explanatory .R files used to fit the national model, projections, and the code for plotting.
    
 2. Data - This directory contains the data utilized for fitting the national model. It is important to note that the directory includes various timestamps, and the timeline of the data is documented for transparency.
    
