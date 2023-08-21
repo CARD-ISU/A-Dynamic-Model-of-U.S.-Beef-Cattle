@@ -2,7 +2,7 @@ AUTHOR: Dinesh Reddy Poddaturi
 
 CONTACT: dineshreddypoddaturi@gmail.com
 
-This repository houses the dissertation titled "A Dynamic Model of U.S. Beef Cattle" by Dinesh Poddaturi. The Principal Investigators and co-major professors of Dinesh are Dr. Lee L. Schulz and Dr. Chad E. Hart of Iowa State University. The repo contains the software code written for the dissertation and the final dissertation packet. The code is written in R programming language and the dissertation is added as a project within the repo.
+This repository houses the dissertation titled "A Dynamic Model of U.S. Beef Cattle" by Dinesh Poddaturi. The Principal Investigators and co-major professors of Dinesh are Dr. Lee L. Schulz and Dr. Chad E. Hart of Iowa State University. This material was based upon work that was supported by the National Institute of Food and Agriculture, U.S. Department of Agriculture, under award number 2018-67023-27687. The repo contains the software code written for the dissertation and the final dissertation packet. The code is written in R programming language and the dissertation is added as a project within the repo.
 
 Repository Information:
 
